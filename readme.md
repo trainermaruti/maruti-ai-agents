@@ -1,4 +1,4 @@
-# Develop AI Agents in Azure
+# Develop AI Agents in Azure by Maruti Makwana
 
 The exercises in this repo are designed to provide you with a hands-on learning experience in which you'll explore common tasks that developers perform when building AI agents on Microsoft Azure.
 
@@ -11,4 +11,5 @@ View the exercises in the [GitHub Pages site for this repo](https://go.microsoft
 ## Reporting issues
 
 If you encounter any problems in the exercises, please report them as **issues** in this repo.
+
 
